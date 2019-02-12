@@ -12,7 +12,7 @@ Es posible que te pidan realizar algo con una determinada tecnología de la cual
 En este caso una opción puede ser resolverlo con tus conocimientos, y en una rama intentarlo con la tecnología nueva que nos piden:
 
 
-- Como el problema ya lo has resuelto con la tecnología que conoces, ya conoces la solución y por tanto puedes centrarte en aprender la nueva tecnología para hacer algo que ya sabes hacer.
+- Como el problema ya lo has resuelto con la tecnología que conoces, ya estarás familiarizada con la solución y por tanto puedes centrarte en aprender la nueva tecnología para hacer algo que ya sabes hacer.
 - Si no consigues resolverlo con la tecnología pedida, tienes una ejercicio completo en master del que sentirte orgullosa y listo para entregar, y ademas una rama para mostrar tu enfrentamiento a lo desconocido ;)
 - Si lo consigues, solo tienes que mergear.
 
@@ -24,7 +24,7 @@ Detenerse unos minutos a preparar la entrega siempre es una buena idea. De hecho
 
 En el `README.md` incluye una breve descripción en inglés del trabajo. Ejemplo:
 
-`A simple phones catalogue. It gets data from an API an shows a list of available mobile phones`
+`A simple phones catalogue. It gets data from an API an shows a list of available mobile phones.`
 
 Si los requisitos para la prueba se encontraban en un repositorio público incluye un enlace al mismo. Si te los proporcionaron de manera privada, ¡evita publicarlos aquí!
 
@@ -32,7 +32,7 @@ Si los requisitos para la prueba se encontraban en un repositorio público inclu
 
 ### Instrucciones para ejecutar tu prueba
 
-En el `README.md` incluye en inglés los pasos necesarios para ejecutar tu aplicación. No des nada por hecho y detalla todo lo necesario. Es posible que la persona que vaya a revisarla no tenga `gulp` instalado en su ordenador, o inclusive que se la pase al desarrollador backend para que la mire y ¡este no tenga ni _Node.js_!
+En el `README.md` incluye los pasos necesarios para ejecutar tu aplicación. No des nada por hecho y detalla todo lo necesario. Es posible que la persona que vaya a revisarla no tenga `gulp` instalado en su ordenador, o inclusive que se la pase al desarrollador backend para que la mire y ¡este no tenga ni _Node.js_!
 
 1. Si es necesario tener instaladas herramientas de manera global, como `node` o el CLI de `gulp`, indícalo.
 
@@ -61,10 +61,10 @@ Idealmente deberías haber escrito tu código siguiendo un estilo unificado e in
 - Tus clases tienen un nombrado coherente y un estilo unificado.
 - El nombrado de tus variables, constantes y funciones es intuitivo y semántico.
 - No tienes mogollón de separaciones (muchas líneas blancas juntas) porque sí, cuando quieres separar dos funciones una línea es suficiente.
-- Las etiquetas de HTML tienen la apertura en una línea y el cierre en otra a la misma altura.
+- Las etiquetas de HTML con mucho contenido o muchos atributos, tienen la apertura en una línea y el cierre en otra a la misma altura.
 - No tienes errores en la consola (ni al cargar ni al interaccionar con la página).
 - Pasa tu HTML por un validador y asegúrate de que valida.
-- En general tu código está limpito y es fácil de leer.
+- En general tu código está limpio y es fácil de leer.
 - Finalmente utiliza el indentado automático de tu editor, por si se te ha pasado alguna tabulación.
 
 ### Email
@@ -76,7 +76,7 @@ Una vez estés contenta con tu trabajo llega el momento de escribir el email par
 - Explica tu prueba (decisiones tomadas):
 
   - Qué tecnologías has usado, y por qué.
-  - Se ha quedado algo fuera, o en progreso en una rama.
+  - Si se ha quedado algo fuera, o en progreso en una rama.
   - En qué navegadores funciona
   - ...
 
