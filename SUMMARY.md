@@ -61,6 +61,17 @@
 - [Anexo. Documentación del API de Awesome Profile Cards](proyectos/P2_anexo.md)
 - [Proyecto 3. Un caso de código heredado](proyectos/P3_proyecto_sprint_3.md)
 
+## Formación continua
+
+- [Presentación](formacion-continua/0_presentacion.md)
+- [Prueba técnica #1](formacion-continua/1_prueba_tecnica.md)
+- [Prueba técnica #2](formacion-continua/2_prueba_tecnica.md)
+- [Prueba técnica #3](formacion-continua/3_prueba_tecnica.md)
+- [Prueba técnica #4](formacion-continua/4_prueba_tecnica.md)
+- [Prueba técnica #5](formacion-continua/5_prueba_tecnica.md)
+- [Prueba técnica #6](formacion-continua/6_prueba_tecnica.md)
+- [Prueba técnica #7](formacion-continua/7_prueba_tecnica.md)
+
 ## Guías
 
 - [Instalación de ordenadores](guias/instalacion_ordenadores.md)
